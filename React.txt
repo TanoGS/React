@@ -1,0 +1,21 @@
+https://www.youtube.com/watch?v=7iobxzd_2wY&t=4445s
+
+reactjs.wiki
+empaquetador de aplicaciones: Vite
+vitejs.dev
+https://vitejs.dev/guide
+//Preparar projecto
+
+npm create vite@latest
+React
+JavaScrip + SWC
+npm install
+npm run dev
+
+transpilador SWC
+
+punto de entrada de la aplicacion: main.jsx
+
+
+Biblioteca universal, se puede ejecutar en el cliente y en el servidor. Nos permite reutilizar codigo.
+
